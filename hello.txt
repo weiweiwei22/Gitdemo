@@ -5,4 +5,4 @@ hello git!
 hello git!
 hello git!
 first change!
-hot-fix change
+hot-fix change hot-fix test
