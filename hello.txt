@@ -7,3 +7,4 @@ hello git!
 <<<<<<< HEAD
 first change! master test
 hot-fix change hot-fix test
+1111111
